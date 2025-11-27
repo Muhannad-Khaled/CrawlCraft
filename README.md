@@ -32,3 +32,7 @@
 ```bash
 git clone https://github.com/Muhannad-Khaled/CrawlCraft.git
 cd CrawlCraft
+```bash
+```لاشسا
+2. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
