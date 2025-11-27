@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/Powered%20By-Groq-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **CrawlCraft** is a reactive AI agent powered by Groq, MCP, and Firecrawl. It can crawl websites, extract structured data, and perform tool-driven reasoning. Designed for automation, research, and intelligent data gathering.
 
@@ -125,3 +124,4 @@ CrawlCraft/
 - [LangChain MCP](https://python.langchain.com/)
 - [Groq](https://groq.com/)
 - [Firecrawl](https://www.firecrawl.dev/)
+
